@@ -1,0 +1,26 @@
+*{
+    background-color:rgb(215, 215, 249);
+    text-align: center;
+}
+
+h1{
+    color: rgb(255, 0, 25);
+    font-size: 55px;   
+}
+
+img{
+    color: #000;;
+}
+
+#a{
+    width: 400px;
+}
+   
+#b{
+    width: 400px;
+}
+
+h2{
+    color: rgb(3, 90, 15);
+    font-size: xx-large;
+}
